@@ -1,11 +1,11 @@
 {
   "name": "console-l",
-  "version": "0.0.2",
+  "version": "1.0.0",
     "repository": {
     "type": "git",
     "url": "https://github.com/JLarky/console-l"
   },
-  "files": ["index.js", "package.json", "README.md"],
+  "files": ["index.js", "index.d.ts", "package.json", "README.md"],
   "types": "index.d.ts",
   "main": "index.js"
 }

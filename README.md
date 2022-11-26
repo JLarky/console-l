@@ -27,4 +27,4 @@ l('Hello, World!')
 ## See also
 
 - https://www.npmjs.com/package/console-m
-- https://twitter.com/JLarky/status/1596605411184250882
+- https://twitter.com/JLarky/status/1596612417315749888
